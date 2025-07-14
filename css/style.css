@@ -95,3 +95,6 @@ body{
         font-size: 1rem;
     }
 }
+.greetings, .description {
+    color: #00ffc8; /* Cambia este color al que prefieras */
+}
